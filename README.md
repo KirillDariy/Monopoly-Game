@@ -1,13 +1,14 @@
 # Monopoly-Game
-A replica of the Monopoly game created by me and my friend for our grade 12 computer science course. This was our final project.
+A full recreation of the Monopoly game created by me and my friend for our grade 12 computer science course as our final project.
 
 ## Features:
-- 2-4 players
+- Multiplayer player (2-4)
 - Buying and mortgaging of properties
 - Chance and Community cards 
 - Jail
 - Dice
 - Display for players information
+- Music
 - Seperate window for the information of a given property and the players list of properties
 - Ability to pay and collect rent
 - Green indicator on current player
@@ -69,7 +70,7 @@ A replica of the Monopoly game created by me and my friend for our grade 12 comp
 ![Landing on properties 2](./Promotion/landing-2.png)
 
 ## I learned how to:
-- Collaborate on a coding project (this was my first coding group project)
+- Collaborate on a coding project
 - Override and paint onto the JFrame directly
 - Parse and organize the data from text files 
 - Store data for the information related to the properties
